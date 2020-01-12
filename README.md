@@ -21,5 +21,11 @@ We explore two simulation settings which are based on different distributions:
 
 -The second simulation setting is based on the Dirichlet- Multinomial distribution. The simulation and evaluation codes for RioNorm2 and all other compared methods are saved under Dirichlet-Multinomial folder.
 
+  - Main files:
+    - Multi_Dir_data_generate.R: generate dirichlet-multinomial distribution-based data
+    - Simulation_RioNorm2.R: apply RioNorm2 on simulated data
+    - Simulation_other_methods.R: apply other compared methods, e.g. DESeq, DESeq2, metagenomeSeq, Omnibus, RAIDA, ANCOM on simulated data
+    - simulation_performance_comparison_dirmulti_corrected.R: organize results from different methods and generate summarizing figures
+
 References:
 McMurdie, P.J., and Holmes, S., (2014). Waste not, want not: why rarefying microbiome data is inadmissible. PLoS computational biology, 10(4), p.e1003531.
