@@ -5,7 +5,7 @@ Large scale of simulation studies are conducted to compare the performance of Ri
 
 We explore two simulation settings which are based on different distributions:
 
--The first one is adopted from the simulation setting B in McMurdie and Holmes (2014), which is based on Multinomial distribution. The simulation and evaluation codes for RioNorm2 and all other compared methods are saved under Multinomial folder.
+-The first one is adopted from the simulation setting B in McMurdie and Holmes (2014), which is based on Multinomial distribution. The simulation and evaluation codes for RioNorm2 and all other compared methods are saved under Multinomial/ folder.
 
   - Main files:
 
