@@ -19,7 +19,7 @@ We explore two simulation settings which are based on different distributions:
     - diff_percentage_TPs/...: generate simulation data with different percentage of DA-OTUs and compare different approaches
     - h_robustness_analysis/Simulation_h_robustness_RioNorm2.R: robustness analysis of h value in RioNorm2 algorithm
 
--The second simulation setting is based on the Dirichlet- Multinomial distribution. The simulation and evaluation codes for RioNorm2 and all other compared methods are saved under Dirichlet-Multinomial folder.
+-The second simulation setting is based on the Dirichlet- Multinomial distribution. The simulation and evaluation codes for RioNorm2 and all other compared methods are saved under Dirichlet-Multinomial/ folder.
 
   - Main files:
     - Multi_Dir_data_generate.R: generate dirichlet-multinomial distribution-based data
